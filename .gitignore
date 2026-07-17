@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.conda/
+
+# Archivos generados y subidos por el usuario (no deben ir al repo)
+uploads/*
+!uploads/.gitkeep
+static/resultado.jpg
+test_contenido.jpg
+test_estilo.jpg
+resultado_fuerte.jpg
+resultado_balanceado.jpg
+resultado_artistico.jpg
+
+# Sistema
+.DS_Store
+Thumbs.db
